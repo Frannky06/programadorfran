@@ -1,6 +1,3 @@
 Banana
 Naranja
 Manzana
-Limpieza 
-Pan
-Huevos
